@@ -13,3 +13,4 @@ Perl: .pl<br>
 Scala: .scala<br>
 Swift: .swift<br>
 PHP: .php<br>
+Typescript: .ts<br>
